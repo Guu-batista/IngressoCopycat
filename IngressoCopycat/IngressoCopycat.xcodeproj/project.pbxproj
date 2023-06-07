@@ -74,6 +74,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9EA354CA2A30AA9F003A89EA /* Payment */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Payment;
+			sourceTree = "<group>";
+		};
 		EC78F8782A2630C3006786D0 = {
 			isa = PBXGroup;
 			children = (
@@ -93,6 +100,7 @@
 		EC78F8832A2630C4006786D0 /* IngressoCopycat */ = {
 			isa = PBXGroup;
 			children = (
+				9EA354CA2A30AA9F003A89EA /* Payment */,
 				EC78F8842A2630C4006786D0 /* IngressoCopycatApp.swift */,
 				DB9335862A26652E00360766 /* LibraryView.swift */,
 				EC78F89A2A266E93006786D0 /* CinemasView.swift */,
@@ -351,7 +359,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"IngressoCopycat/Preview Content\"";
-				DEVELOPMENT_TEAM = 983Y3746T2;
+				DEVELOPMENT_TEAM = YL5D8RJ9Y2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -380,7 +388,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"IngressoCopycat/Preview Content\"";
-				DEVELOPMENT_TEAM = 983Y3746T2;
+				DEVELOPMENT_TEAM = YL5D8RJ9Y2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
